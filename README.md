@@ -9,6 +9,7 @@ dashboard usable by operations/logistics teams.
 
 ## Approach
 
+- **Dataset**: The DataCo Smart Supply Chain dataset provides a rich, real‑world view of customer orders, shipping behaviour, product categories, delivery performance, and financial metrics. This makes it suitable for analysing operational bottlenecks and developing predictive models to support supply chain decision‑making. [View Dataset](https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-chain-for-big-data-analysis/data?select=DataCoSupplyChainDataset.csv)
 - **Data preparation**: cleaned the DataCo dataset (180k+ orders), handled
   hidden nulls and duplicates, converted dates, and engineered three features:
   shipping delay risk, profit margin, and customer lifetime value (CLV).
@@ -77,6 +78,6 @@ available), or publish it to
   modelling, visualisation
 - `Supply Chain Optimization Dashboard.twbx` — Tableau dashboard workbook
 - `DataCoSupplyChainDataset.csv` — Original dataset
-- `cleaned_supply_chain(For dashboard).xlsx` — Cleaned dataset used for
+- `cleaned_supply_chain(For dashboard).xlsb` — Cleaned dataset used for
   dashboard
 - `requirements.txt` — Python dependencies
