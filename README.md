@@ -77,7 +77,6 @@ available), or publish it to
 - `Supply Chain Optimization.ipynb` — cleaning, feature engineering,
   modelling, visualisation
 - `Supply Chain Optimization Dashboard.twbx` — Tableau dashboard workbook
-- `DataCoSupplyChainDataset.csv` — Original dataset
 - `cleaned_supply_chain(For dashboard).xlsb` — Cleaned dataset used for
   dashboard
 - `requirements.txt` — Python dependencies
